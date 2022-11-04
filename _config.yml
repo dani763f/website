@@ -1,0 +1,108 @@
+### Site Settings ###
+title               : Daniel Valentin
+description         : >-
+                      A Danish UX Designer that loves everything FLOSS!
+baseurl             : "/website"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : dani763f/dani763f.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - documentation/partials/**                           # For Documentation Only
+
+
+### Author Info ###
+author:
+  name              : Daniel Valentin
+  image             : https://am3pap005files.storage.live.com/y4mIoigAE0drpuGIcRlBmO7JdwPv6AjgaHHOLJpoWNyv_yr_xI9hLr72aDKBe8QXpeZipFOuI1jApXko8C4OLTTDjkv7eBWBHZfeJIU_GavuX2B7JonMiceRDHbw0fAFCfI1HBO_VTVpT0NooKntHvdkVq5N1nBUHCpXVsklxUm77SGvZ5NDr7i3GJuEp6bhx_T?width=1024&height=1024&cropmode=none
+# behance           : your_username
+# dribbble          : your_username
+  email             : daniel.valentin.laursen@gmail.com
+  facebook          : daniel.v.laursen
+  github            : dani763f
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : daniel-valentin-laursen
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  elements:                                             # For Documentation Only
+    output: true                                        # For Documentation Only
+
+
+### Disqus ###
+disqus:
+  shortname: personal-site-11                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Buy me a coffee ###
+# See https://www.buymeacoffee.com/
+buymeacoffee:
+  enabled: false
+  username: your_username
+  color: "#007bff"
+  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+  description: "Support me on Buy me a coffee!"
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:                                              # For Documentation Only
+      path: ""                                          # For Documentation Only
+      type: "elements"                                  # For Documentation Only
+    values:                                             # For Documentation Only
+      layout: "element"                                 # For Documentation Only
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

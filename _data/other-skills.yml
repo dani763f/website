@@ -1,0 +1,19 @@
+- name: Selfhosting
+  percentage: 25
+  color: success
+
+- name: Linux
+  percentage: 65
+  color: success
+
+- name: Blender
+  percentage: 30
+  color: success
+
+- name: Photography
+  percentage: 50
+  color: success
+
+- name: IT software & hardware knowledge
+  percentage: 80
+  color: success
