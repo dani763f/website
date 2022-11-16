@@ -6,7 +6,7 @@ description: Most danish youth does not have a savings account. This project, ma
 --- 
 ## <center>SaveMore<center/>
 <br>
-![summary](/website/images/savemore/summarycard.svg)
+Although we probably don’t want to admit it, we humans are bad at making the right choices. This is clearly seen when you look at the success rates for the complex choices we face in life, such as choosing the right career, mortgage or partner. Even when we are faced with seemingly simple choices, for example choosing what groceries to buy for the rest of the week, we find it difficult to navigate between the many millions of combinations of shopping items that a supermarket offer. Do we always stick to our budget? Do we always choose the healthy choice? Are we able to predict what we want to eat on Wednesday without being influenced by what we want here and now? Unlikely.  
 
 {% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/savemore/userjourney.jpg" caption="The User Journey" %}  
 <br>
