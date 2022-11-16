@@ -23,7 +23,14 @@ Present bias describes people's tendency to overestimate their own motivation an
 
 ## The Prototype  
 {% capture carousel_images %}
-https://bit.ly/2BBbVhc
-https://bit.ly/2DOtxXB
+https://raw.githubusercontent.com/dani763f/website/main/images/savemore/userjourney.jpg
+https://raw.githubusercontent.com/dani763f/website/main/images/savemore/lowfidelity.png
+https://raw.githubusercontent.com/dani763f/website/main/images/savemore/prototype/1.png
+https://raw.githubusercontent.com/dani763f/website/main/images/savemore/prototype/2.png
+https://raw.githubusercontent.com/dani763f/website/main/images/savemore/prototype/3.png
+https://raw.githubusercontent.com/dani763f/website/main/images/savemore/prototype/4.png
+https://raw.githubusercontent.com/dani763f/website/main/images/savemore/prototype/5.png
+https://raw.githubusercontent.com/dani763f/website/main/images/savemore/prototype/6.png
+https://raw.githubusercontent.com/dani763f/website/main/images/savemore/prototype/7.png
 {% endcapture %}
 {% include elements/carousel.html %}
