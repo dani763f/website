@@ -3,13 +3,12 @@ name: SaveMore
 tools: [prototype, university]
 image: /website/images/savemore/logo.png
 description: Most danish youth does not have a savings account. This project, made in collaboration with Nordea, used theory from behavioral economics to attempt to mitigate this issue.
----
-![banner](/website/images/savemore/banner.png)  
-## <center>Getting danish youth to invest their savings<center/>
+--- 
+## <center>SaveMore<center/>
 <br>
 ![summary](/website/images/savemore/summarycard.svg)
 
-{% include elements/figure.html image="https://bit.ly/2N69TKO" caption="The Process" %}  
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/savemore/userjourney.jpg" caption="The User Journey" %}  
 <br>
 By employing concepts from behavioral economics, while conducting interviews and utilizing cultural probes to gauge and analyze the daily spendings of a group of participants it was shown that 50% of the participants underestimated their daily spendings.
 In designing the prototype 3 key factors, both present in the existing research and collected data, were used to inform the design.
@@ -23,13 +22,11 @@ Loss aversion describes the tendency for people to value loss significantly heav
 #### Presest bias  
 Present bias describes people's tendency to overestimate their own motivation and effort with regards to the future. Studies show that people tend to make the healthy choice for the future. Most often, however, there is an immediate reward in the unhealthy choice in the present, which results in this being the most attractive thing when faced with the choice in a real situation.  
 
-{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/savemore/userjourney.jpg" caption="The User Journey" %}
-
 ## The Prototype  
 
 {% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/savemore/lowfidelity.png" caption="The first low fidelity prototype" %}
 
-### The wireframes
+### The High Fidelity Prototype
 
 {% capture carousel_images %}
 https://raw.githubusercontent.com/dani763f/website/main/images/savemore/prototype/1.png
