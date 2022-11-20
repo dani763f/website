@@ -30,7 +30,7 @@ Present bias describes people's tendency to overestimate their own motivation an
 ## The Prototype  
 The prototype targeted both the current mobile experience, and a new flow to showcase how users might go about creating savings accounts for specific goals, such as a new bike, a vacation or something else. 
 
-{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/savemore/lowfidelity.png" caption="The first low fidelity prototype" %}  
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/savemore/prototype/lowfidelity.png" caption="The first low fidelity prototype" %}  
 
 
 
