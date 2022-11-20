@@ -9,7 +9,7 @@ description: Most danish youth does not have a savings account. This project, ma
 <br>
 Although we probably don’t want to admit it, we humans are bad at making the right choices. This is clearly seen when you look at the success rates for the complex choices we face in life, such as choosing the right career, mortgage or partner. Even when we are faced with seemingly simple choices, for example choosing what groceries to buy for the rest of the week, we find it difficult to navigate between the many millions of combinations of shopping items that a supermarket offer. Do we always stick to our budget? Do we always choose the healthy choice? Are we able to predict what we want to eat on Wednesday without being influenced by what we want here and now? Unlikely. This project, in collaboration with Nordea, attempted to provide a smart-investing and savings solution for a specific Nordea-provdid persona, the "Time saver". 
 
-{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/savemore/prototype/userjourney.jpg" caption="process work" %}  
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/savemore/userjourney.jpg" caption="process work" %}  
 <br>
 By employing concepts from behavioral economics, while conducting interviews, utilizing cultural probes, emapthy maps, customer journey maps and prototyping tools it was possible to gauge and analyze the daily spendings of a group of participants that fit the provided persona. it was shown that 50% of the participants underestimated their daily spendings.
 In designing the prototype 3 key factors, both present in the existing research and collected data, were used to inform the design.  
