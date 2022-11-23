@@ -11,8 +11,6 @@ We live in a world where technology has soon found its way into every activity, 
 experience. We use technology in our everyday life to organize, support, activate, engage and so 
 much more. How these technologies are designed and shaped to either fit into our world, or 
 disrupt it, is part of the designer’s job.  
-<br>
-![sep](/website/images/sep.svg)
 
 ## The Project  
 The problem-area was defined during the UX specialization at ITU. The case revolved around finding an area of interest where structured leisure activities took place. We were then to examine the current situation and identify one or more existing issues, which we could then solve or assist in through a screen-based solution. The board game night at ITU was subsequently chosen as it was a readily availbe leisurely activity with easy access to testing and participants.  
