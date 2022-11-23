@@ -16,8 +16,6 @@ disrupt it, is part of the designer’s job.
 
 ## The Project  
 The problem-area was defined during the UX specialization at ITU. The case revolved around finding an area of interest where structured leisure activities took place. We were then to examine the current situation and identify one or more existing issues, which we could then solve or assist in through a screen-based solution. The board game night at ITU was subsequently chosen as it was a readily availbe leisurely activity with easy access to testing and participants.  
-
-
 <br>
 ![sep](/website/images/sep.svg)
 
@@ -29,6 +27,8 @@ would be hesitant and unsure about the customs and allowed actions at board game
 regular participants could benefit from additional guidance in regards to the board games themselves, and their mechanics.
 <br>
 {% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/storyboard1.png" caption="Storyboarding the desired experience" %}  
+<br>
+![sep](/website/images/sep.svg)
 
 ## The Solution  
 
@@ -61,6 +61,8 @@ to use the functions (and also freeing up space to use the “shared” tablet),
 functionalities unto multiple personal devices at the same time.
 
 {% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/lowfidelity.png" caption="An early stage low fidelity prototype" %}  
+<br>
+![sep](/website/images/sep.svg)
 
 ### The Final Prototype
 
