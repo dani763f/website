@@ -52,7 +52,8 @@ do not occur in the first place. Specifically, ealier iterations of the prototyp
 As the project revolved around people in their leisure time, it was deemed important for the app to be
 persuasive, in order for the potential users to both want to and be able to engage with the concept.
 Therefore it was found to be useful to utilize Foggs behavior model during the Ideation stage, to assist in iterating and building upon the ideas with specific regards to how one could enhance both ability and
-motivation in the potential user group. As described above, various measures were taken to ensure a high level of ability. Naturally, though, the steps mentioned above taken to improve usability would be
+motivation in the potential user group. As described above, various measures were taken to ensure a high level of ability.  
+Naturally, though, the steps mentioned above taken to improve usability would be
 redundant if the user never interacts with the app. As the app is intended to be displayed on a
 shared tablet, accessible by all attending board game night, it might be occupied at times where multiple users wants to access it. Because of this it was chosen to move some of the functionality - the quick-start
 guide and rulesets - to a smartphone-accessible web app. As these are functionalities that might
