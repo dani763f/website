@@ -31,12 +31,12 @@ regular participants could benefit from additional guidance in regards to the bo
 {% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/storyboard1.png" caption="Storyboarding the desired experience" %}  
 
 ## The Solution  
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/designthinking.png" caption="Amount of iterations in each step of the design thinking process" %}  
 
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/lowfidelity.png" caption="An early stage low fidelity prototype" %}  
 
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/process.png" caption="Process work" %}  
 
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/prototype/tablet/prototype.png" caption="Prototype for tablets" %}  
 
-
-<br>
-![tablet](/website/images/boardgamenight/prototype/tablet/prototype.png)
-<br>
-![smartphone](/website/images/boardgamenight/prototype/smartphone/prototype.png)
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/prototype/smartphone/prototype.png" caption="Prototype for smartphones" %}
