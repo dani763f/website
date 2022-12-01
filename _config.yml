@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Daniel Valentin
 description         : >-
-                      A Danish UX Designer that loves everything FLOSS!
+                      A Danish UX Designer that loves everything FLOSS! This site is still under construction! 🏗️
 baseurl             : "/website"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : dani763f/dani763f.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU

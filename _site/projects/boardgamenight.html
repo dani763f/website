@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+
+<!--
+  portfolYOU Jekyll theme by Youssef Raafat
+  Free for personal and commercial use under the MIT license
+  https://github.com/YoussefRaafatNasry/portfolYOU
+-->
+
+<html lang="en" class="h-100">
+
+<head>
+
+  
+  
+  
+
+  
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Board Game Night!">
+  <meta property="og:description" content="A prototype that investigated increasing awareness about ITU's board game night!">
+  <meta property="og:image" content="/website/images/boardgamenight/logo.png">
+
+  <title>Board Game Night!</title>
+  <meta name="description" content="A prototype that investigated increasing awareness about ITU's board game night!">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/website/assets/favicon.ico">
+
+  <!-- Theme style -->
+  <script src="/website/assets/js/theme.js"></script>
+
+  <!-- Font Awesome CDN -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.0/css/all.css">
+
+  <!-- Bootstrap CSS CDN -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+
+  <!-- Animate CSS CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/website/assets/css/style.css">
+
+</head>
+
+<body class="h-100 d-flex flex-column">
+
+  <main class="flex-shrink-0 container mt-5">
+    <nav class="navbar navbar-expand-lg navbar-themed">
+
+  <a class="navbar-brand" href="/website/"><h5><b>Daniel Valentin</b></h5></a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <i class="fas fa-1x fa-bars text-themed"></i>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav ml-auto"><a class="nav-item nav-link active" href="/website/projects/">Projects</a>
+
+      <a class="nav-item nav-link " href="/website/blog/">Blog</a>
+
+      <a class="nav-item nav-link " href="/website/about/">About</a>
+
+      
+
+      <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
+    </div>
+  </div>
+
+</nav>
+    <div class="col-lg-10 mx-auto mt-5 markdown-body">
+  <h1 id="board-game-night"><center>Board Game Night!<center></center></center></h1>
+<h2 id="designing-for-physical-spaces"><center>Designing for physical spaces<center></center></center></h2>
+<p><br />
+We live in a world where technology has soon found its way into every activity, event and 
+experience. We use technology in our everyday life to organize, support, activate, engage and so 
+much more. How these technologies are designed and shaped to either fit into our world, or 
+disrupt it, is part of the designer’s job.</p>
+
+<h2 id="the-project">The Project</h2>
+<p>The problem-area was defined during the UX specialization at ITU. The case revolved around finding an area of interest where structured leisure activities took place. We were then to examine the current situation and identify one or more existing issues, which we could then solve or assist in through a screen-based solution. The board game night at ITU was subsequently chosen as it was a readily availbe leisurely activity with easy access to testing and participants.<br />
+<br />
+<img src="/website/images/sep.svg" alt="sep" /></p>
+
+<h2 id="the-problem">The Problem</h2>
+<p>Through the data several problem areas were identified, which had the possibility 
+to be improved through a screen-based solution. One particular issue seemed more prominent 
+than the others: <strong>The lack of facilitation and guidance at the event.</strong> It was found that new participants 
+would be hesitant and unsure about the customs and allowed actions at board game night. We also found the 
+regular participants could benefit from additional guidance in regards to the board games themselves, and their mechanics.
+<br /></p>
+<figure class="figure w-100">
+  <img src="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/storyboard1.png" class="figure-img img-fluid rounded" alt="Storyboarding the desired experience" /><figcaption class="figure-caption text-center">Storyboarding the desired experience</figcaption></figure>
+<p><br />
+<img src="/website/images/sep.svg" alt="sep" /></p>
+
+<h2 id="the-solution">The Solution</h2>
+
+<p>Throughout the process a myriad of methods were used. The overall process followed the design thinking stages, and went through multiple iterations of each stage.</p>
+
+<figure class="figure w-100">
+  <img src="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/designthinking.png" class="figure-img img-fluid rounded" alt="Amount of iterations in each step of the design thinking process" /><figcaption class="figure-caption text-center">Amount of iterations in each step of the design thinking process</figcaption></figure>
+
+<p>At the core of the usability work was <a href="https://www.nngroup.com/articles/ten-usability-heuristics/">Nielsen’s 10 heuristics</a>, which describes the empirically derived most common usability problems. By considering these when designing a digital artifact, a lot of usability issues can be mitigated. Among these principles most of the uncovered problems were the following:</p>
+
+<ul>
+  <li>The heuristic of “help and documentation”, as the app is designed as a piece of documentation for the event itself. This is the motivation behind making the left sidebar static to ensure that there is always help available for the user. Clicking on the buttons in the sidebar will provide the user with further explanations through dialogue boxes.</li>
+  <li>Additionally, we were concerned with the heuristic of “error prevention”. The app should be
+designed both in a way that lets user recover from errors smoothly (as per the “error recovery”
+heuristic), but naturally, it is preferable if you can design the layout in such a way so that the errors
+do not occur in the first place. Specifically, ealier iterations of the prototype allowed one-click booking of games however it was found that this, given the nature of the event, allowed people to accidentally book games. This was mitigated by adding a ‘confirm booking’ option.</li>
+  <li>In accordance with the “Consistency and standards”-heuristic, it was chosen to employ a navigational framework that the user would be familiar with. We chose to work with Apple’s hierarchical navigation guidelines (Apple Inc, n.d.). This mean that the user makes one choice per screen to navigate forwards or backwards.</li>
+</ul>
+
+<figure class="figure w-100">
+  <img src="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/process.png" class="figure-img img-fluid rounded" alt="From top left, to bottom right - Houde and Hill’s model for prototypes (Houde &amp; Hill, 1997), Dotmocracy and sorting of ideas, navigational framework and The Fogg Behavior Model" /><figcaption class="figure-caption text-center">From top left, to bottom right - Houde and Hill’s model for prototypes (Houde &amp; Hill, 1997), Dotmocracy and sorting of ideas, navigational framework and The Fogg Behavior Model</figcaption></figure>
+
+<p>As the project revolved around people in their leisure time, it was deemed important for the app to be
+persuasive, in order for the potential users to both want to and be able to engage with the concept.
+Therefore it was found to be useful to utilize Foggs behavior model during the Ideation stage, to assist in iterating and building upon the ideas with specific regards to how one could enhance both ability and
+motivation in the potential user group. As described above, various measures were taken to ensure a high level of ability.<br />
+Naturally, though, the steps mentioned above taken to improve usability would be
+redundant if the user never interacts with the app. As the app is intended to be displayed on a
+shared tablet, accessible by all attending board game night, it might be occupied at times where multiple users wants to access it. Because of this it was chosen to move some of the functionality - the quick-start
+guide and rulesets - to a smartphone-accessible web app. As these are functionalities that might
+take longer for the individual user to interact and consult with, we wanted to increase the ability
+to use the functions (and also freeing up space to use the “shared” tablet), by moving these
+functionalities unto multiple personal devices at the same time.</p>
+
+<figure class="figure w-100">
+  <img src="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/lowfidelity.png" class="figure-img img-fluid rounded" alt="An early stage low fidelity prototype" /><figcaption class="figure-caption text-center">An early stage low fidelity prototype</figcaption></figure>
+<p><br />
+<img src="/website/images/sep.svg" alt="sep" /></p>
+
+<h3 id="the-final-prototype">The Final Prototype</h3>
+
+<p>To evaluate the prototype, we made use of methods from each of the three categories of
+evaluation from <a href="http://www.id-book.com/">“Interaction Design: Beyond Human-Computer Interaction”</a> these being “Controlled settings involving users”, “Natural settings involving users” and “Any setting not involving users”. All three methods were intended as formative evaluations.</p>
+
+<p>The first of the three evaluations, “Natural settings involving users”, was based on an in-
+situ evaluation, meant to evaluate the situated user experience by testing the prototype in the
+users’ context, i.e. at the board game night. Here, a prototype was present at the event in the context of its intended use, with facilitators present to prompt interaction with the prototype and address potential questions, while notetakers observed and documented findings.</p>
+
+<p>Additionally, we made use of an “expert test” in the form of a heuristic evaluation, adhering
+to the “Any setting not involving users” category. A heuristic evaluation assesses an interface
+based on a set of agreed-upon best practices for usability.</p>
+
+<p>The final method, from the “Controlled settings involving users” category, was structured
+around a focus group interview, supplemented by a roleplay-inspired exercise to base the
+discussion on. The focus group consists of a small group of select individuals that, guided by a
+moderator, provide insights into the given issue.</p>
+
+<figure class="figure w-100">
+  <img src="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/prototype/tablet/prototype.png" class="figure-img img-fluid rounded" alt="Prototype for tablets" /><figcaption class="figure-caption text-center">Prototype for tablets</figcaption></figure>
+
+<figure class="figure w-100">
+  <img src="https://raw.githubusercontent.com/dani763f/website/main/images/boardgamenight/prototype/smartphone/prototype.png" class="figure-img img-fluid rounded" alt="Prototype for smartphones" /><figcaption class="figure-caption text-center">Prototype for smartphones</figcaption></figure>
+
+</div>
+  </main>
+  <footer class="mt-auto py-3 text-center">
+
+  <small class="text-muted mb-2">
+    <i class="fas fa-code"></i> with <i class="fas fa-heart"></i>
+    by <strong>Daniel Valentin</strong>
+  </small>
+
+  <div class="container-fluid justify-content-center"><a class="social mx-1"  href="mailto:daniel.valentin.laursen@gmail.com"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#db4437'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fas fa-envelope fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.facebook.com/daniel.v.laursen"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#3b5998'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-facebook fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.github.com/dani763f"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#333333'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-github fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.linkedin.com/in/daniel-valentin-laursen"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#007bb5'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-linkedin-in fa-1x"></i>
+    </a>
+
+</div><small id="attribution">
+    theme <a href="https://github.com/YoussefRaafatNasry/portfolYOU">portfolYOU</a>
+  </small>
+
+</footer>
+
+  
+  <!-- GitHub Buttons -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- jQuery CDN -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Popper.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+
+<!-- Bootstrap JS CDN -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<!-- wow.js CDN & Activation -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+<script> new WOW().init(); </script>
+
+<!-- Initialize all tooltips -->
+<script>
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+})
+</script>
+</body>
+
+</html>
