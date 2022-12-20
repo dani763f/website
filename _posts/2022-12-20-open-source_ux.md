@@ -31,10 +31,24 @@ Akira is a native Linux Design application built in Vala and GTK. Akira focuses 
 
 ## Command line tools?  
 
+As a UX designer, it's important to constantly look for ways to streamline your workflow and save time on repetitive tasks. One tool that can greatly assist with this is the command line interface (CLI) based application. 
+
+CLI applications are programs that are run through a command prompt or terminal, rather than through a graphical user interface (GUI). While they may seem intimidating at first, they can actually be incredibly useful for UX designers. 
+
+For starters, CLI applications often allow you to perform tasks much faster than you could through a GUI. This is because you can easily script and automate processes, eliminating the need to manually click through menus and dialog boxes. 
+
+CLI applications can also be more efficient in terms of memory usage, as they don't require the resources of a full graphical interface. This means that they can run smoothly even on lower-powered devices, making them a great option for designers on the go. 
+
+Another advantage of CLI applications is that they are often highly customizable. Many come with a variety of options and flags that allow you to tailor their functionality to your specific needs. 
+
+Overall, incorporating CLI based applications into your workflow as a UX designer can help you save time, streamline processes, and increase efficiency. While they may require a bit of a learning curve, the benefits are well worth it.  
+
 ### ImageMagick
 ImageMagick is a command-line tool for converting and manipulating images. It has a wide range of features for resizing, cropping, and adjusting the color and contrast of images, as well as support for many different file formats. ImageMagick is particularly useful for designers who need to batch process large numbers of images quickly and efficiently.
 ### FFmpeg
 FFmpeg is a command-line tool for manipulating audio and video files. It has a wide range of features for converting, cutting, and merging audio and video files, as well as support for many different file formats. FFmpeg is great for designers who need to create and edit videos for their projects.
+### [CarveKit](https://github.com/OPHoperHPO/image-background-remove-tool)
+Carvekit is a command-line based application that utilizes neural networks to provide automated, high-quality background removal for images. It features batch processing, NVIDIA CUDA and CPU processing, and fast inference with low memory usage using FP16 inference. Carvekit is easy to use and integrate with your own code, and is 100% compatible with the remove.bg HTTP API. In addition, it is particularly effective at removing backgrounds from hair in images.
 
 
 ## Concluding remarks
