@@ -5,7 +5,7 @@ style: fill
 color: info
 description: This article explores the top open-source tools for UX designers, including Blender, Inkscape, GIMP, ImageMagick, FFmpeg, Quant UX, and penpot. These tools can help designers save time and work more efficiently on various tasks in the design process, from prototyping to image manipulation.
 ---
-*This article is part of a series of articles exploring interesting tools from the perspective of a UX designer. It is subject to updates once in a while* 🔎
+*This article is part of a series of articles exploring interesting tools and workflows from the perspective of a UX designer. It is subject to updates once in a while* 🔎
 ![sep](/website/images/sep.svg)  
 ## The List
 
@@ -20,13 +20,16 @@ Inkscape is a vector graphics editor that is great for creating high-quality gra
 3. [**GIMP**](https://www.gimp.org/)  
 GIMP (GNU Image Manipulation Program) is a raster graphics editor that is great for creating and editing images and graphics. It has a wide range of tools and features for retouching and enhancing photos, creating graphics, and manipulating images. GIMP also has support for layers, masks, and other advanced features, making it a powerful tool for UX designers.  
 <br>
-4. [**Quant-UX**](https://www.quant-ux.com/#/)  
+4. [**Krita**](https://krita.org/en/)  
+Krita is a free and open-source digital painting and illustration software that is widely used by artists and designers alike. Its powerful features, such as the ability to create custom brushes and work with multiple layers, make it a versatile tool for creating digital artwork. As a UX designer, Krita can be a valuable tool for creating and prototyping user interface designs. Its ability to create and customize brushes can allow you to quickly sketch out ideas and iterate on designs, and its support for layers allows you to easily make changes and try out different options without starting from scratch.  
+<br>
+5. [**Quant-UX**](https://www.quant-ux.com/#/)  
 Quant-UX is a free, open-source tool for creating wireframes and prototypes quickly and easily. It has a variety of templates and components for creating common UI elements, as well as the ability to create custom templates and components. This makes it a great tool for UX designers who need to create and iterate on design ideas quickly. Quant UX is web-based and easy to use, making it a convenient option for designers who need to work on the go.  
 <br>
-5. [**Penpot**](https://penpot.app/)  
+6. [**Penpot**](https://penpot.app/)  
 penpot is another open-source tool for creating wireframes and prototypes, with a focus on collaboration and team work. It has a variety of templates and components for creating common UI elements, as well as the ability to create custom templates and components. penpot also has collaboration features, including real-time co-editing and version control, making it a great tool for designers working in a team environment. Like Quant UX, penpot is web-based and easy to use, making it a convenient option for designers on the go.  
 <br>
-6. [**Akira/AkiraUX**](https://github.com/akiraux/Akira)  
+7. [**Akira/AkiraUX**](https://github.com/akiraux/Akira)  
 Akira is a native Linux Design application built in Vala and GTK. Akira focuses on offering a modern and fast approach to UI and UX Design, mainly targeting web designers and graphic designers. The main goal is to offer a valid and professional solution for designers who want to use Linux as their main OS. It's important to note that Akira is currently in early development and may not be ready for use in production.
 
 ## Command line tools?  
