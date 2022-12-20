@@ -31,7 +31,7 @@ Akira is a native Linux Design application built in Vala and GTK. Akira focuses 
 
 ## Command line tools?  
 
-As a UX designer, it's important to constantly look for ways to streamline your workflow and save time on repetitive tasks. One tool that can greatly assist with this is the command line interface (CLI) based application. 
+As a UX designer, it's important to constantly look for ways to streamline your workflow and save time on repetitive tasks. One tool that can greatly assist with this is the command line interface (CLI) based applications. 
 
 CLI applications are programs that are run through a command prompt or terminal, rather than through a graphical user interface (GUI). While they may seem intimidating at first, they can actually be incredibly useful for UX designers. 
 
@@ -48,7 +48,7 @@ ImageMagick is a command-line tool for converting and manipulating images. It ha
 ### FFmpeg
 FFmpeg is a command-line tool for manipulating audio and video files. It has a wide range of features for converting, cutting, and merging audio and video files, as well as support for many different file formats. FFmpeg is great for designers who need to create and edit videos for their projects.
 ### [CarveKit](https://github.com/OPHoperHPO/image-background-remove-tool)
-Carvekit is a command-line based application that utilizes neural networks to provide automated, high-quality background removal for images. It features batch processing, NVIDIA CUDA and CPU processing, and fast inference with low memory usage using FP16 inference. Carvekit is easy to use and integrate with your own code, and is 100% compatible with the remove.bg HTTP API. In addition, it is particularly effective at removing backgrounds from hair in images.
+Carvekit is a command-line based application that utilizes neural networks to provide automated, high-quality background removal for images. It features batch processing, NVIDIA CUDA and CPU processing, and fast inference with low memory usage using FP16 inference. Carvekit is easy to use and integrate with your own code, and is 100% compatible with the [remove.bg](https://www.remove.bg/) HTTP API. In addition, it is particularly effective at removing backgrounds from hair in images.
 
 
 ## Concluding remarks
