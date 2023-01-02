@@ -8,7 +8,7 @@ description: This project involved designing a personalized art profile system t
 <br>
 I had the opportunity to work with SMK (The national gallery of Denmark) on a project that aimed to investigate how digital experiences could enhance the transition between the physical and digital experience at SMK. This task was given to students at the ITU as part of the launch of SMK's new [API](https://www.smk.dk/en/article/smk-api/) that made it possible to access most of SMK's collection of artworks.
 
-{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/smk/smkcollage.png" caption="Process work" %}
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/smk/smkcollage.png" caption="Visting SMK during the initial stages of the project" %}
 
 ![sep](/website/images/sep.svg)
 
