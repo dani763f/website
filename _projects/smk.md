@@ -26,8 +26,8 @@ https://raw.githubusercontent.com/dani763f/website/main/images/smk/cardsorting3.
 The customer journey map was utilized to identify gaps and touch points in the physical and digital experiences at SMK and to determine how a personalized art profile system could support the self-affirming needs of the target audience. To create the map, observation sessions were conducted and the prototype underwent iterative development and evaluation. The map allowed the team to pinpoint potential challenges and touchpoints that could be addressed by the prototype, and the findings informed the design of the prototype, guiding the team in creating a solution that met the needs of the target audience.
 
 {% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/smk/customerjourney.png" caption="The Customer Journey Map" %}  
-
-
+![sep](/website/images/sep.svg)
+<br>
 
 # Prototype
 To validate our concept, we used a 'Wizard of Oz' technique and roleplaying to simulate an SMS reply service and conduct interviews with users selected to match the target group. The participant found the experience engaging and easy to use, and believed the concept would encourage both individual and social reflection.  
