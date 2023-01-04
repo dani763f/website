@@ -4,7 +4,7 @@ tools: [prototype, university]
 image: /website/images/smk/logo.png
 description: This project involved designing a personalized art profile system to facilitate the transition between the physical and digital experience at SMK (the National Gallery of Denmark). The system was tested with 10 participants, and their response was evaluated using a combination of satisfaction measures and qualitative interviews to assess the prototype's effectiveness in supporting the discovery of new, related artworks.
 --- 
-# Developing affirming digital solutions for the museum experience  
+# Developing Affirming Digital Solutions For The Museum Experience  
 <br>
 I had the opportunity to work with SMK (The national gallery of Denmark) on a project that aimed to investigate how digital experiences could enhance the transition between the physical and digital experience at SMK. This task was given to students at the ITU as part of the launch of SMK's new [API](https://www.smk.dk/en/article/smk-api/) that made it possible to access most of SMK's collection of artworks.
 
