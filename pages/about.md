@@ -15,7 +15,7 @@ As a person, I am empathetic, curious and trusting and appreciate the good mood 
 ### <center>Download my CV Here 📁 <center/>
 <p class="text-center">
 {% include elements/button.html link="https://raw.githubusercontent.com/dani763f/website/main/images/pdf/CV_danish.pdf" text="Danish 🇩🇰" style="primary" size="lg" %}
-{% include elements/button.html link="https://raw.githubusercontent.com/dani763f/website/main/images/pdf/CV_danish.pdf" text="English 🇬🇧" style="primary" size="lg" %}
+{% include elements/button.html link="https://raw.githubusercontent.com/dani763f/website/main/images/pdf/CV_english.pdf" text="English 🇬🇧" style="primary" size="lg" %}
 </p>
 <div class="row">
 {% include about/skills.html title="Design Skills" source=site.data.design-skills %}
