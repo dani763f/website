@@ -12,7 +12,7 @@ I create project results based on empirical evidence, and believe that the best 
 I am a flexible and curious person who always tries to deliver results that are good and useful for my colleagues and any end users I interact with.
 As a person, I am empathetic, curious and trusting and appreciate the good mood in an often busy everyday life. I quickly create good relationships and am a team player who believes that the team best achieves its goals through ongoing process optimization and dialogue.  
 
-### <center>Download my CV Here 📁 <center/>
+### <center>Download my CV Here 📁<center/>
 <p class="text-center">
 {% include elements/button.html link="https://raw.githubusercontent.com/dani763f/website/main/images/pdf/CV_danish.pdf" text="Danish 🇩🇰" style="primary" size="lg" %}
 {% include elements/button.html link="https://raw.githubusercontent.com/dani763f/website/main/images/pdf/CV_english.pdf" text="English 🇬🇧" style="primary" size="lg" %}
