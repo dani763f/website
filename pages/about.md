@@ -10,14 +10,18 @@ weight: 3
 Hi I am **{{ site.author.name }}** :wave:,<br>
 I create project results based on empirical evidence, and believe that the best products are achieved when the end users are involved from ideation to testing. I always ask critical questions about processes, and strive to be innovative without always reinventing the wheel.
 I am a flexible and curious person who always tries to deliver results that are good and useful for my colleagues and any end users I interact with.
-As a person, I am empathetic, curious and trusting and appreciate the good mood in an often busy everyday life. I quickly create good relationships and am a team player who believes that the team best achieves its goals through ongoing process optimization and dialogue.
+As a person, I am empathetic, curious and trusting and appreciate the good mood in an often busy everyday life. I quickly create good relationships and am a team player who believes that the team best achieves its goals through ongoing process optimization and dialogue.  
 
+### <center>Download my CV Here 📁 <center/>
+<p class="text-center">
+{% include elements/button.html link="https://raw.githubusercontent.com/dani763f/website/main/images/pdf/CV_danish.pdf" text="Danish 🇩🇰" style="primary" size="lg" %}
+{% include elements/button.html link="https://raw.githubusercontent.com/dani763f/website/main/images/pdf/CV_danish.pdf" text="English 🇬🇧" style="primary" size="lg" %}
+</p>
 <div class="row">
 {% include about/skills.html title="Design Skills" source=site.data.design-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
-
-
+</div>  
+<br>
 # My Timeline :hourglass:
 
 <div class="row">
