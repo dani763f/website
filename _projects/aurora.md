@@ -19,7 +19,39 @@ The primary purpose of the game was to try and help these people by increasing t
 # The Process
 At the beginning of the design process, one may not necessarily be aware of the issues that may arise in a design situation. However, as one learns about and reflects on it, many possible directions emerge. The design process therefore involves many risks, as it forces one to experiment, push boundaries and possibly fail catastrophically. Thoughtfulness becomes an important skill for the designer who must go through this seemingly chaotic process. Since a design will always have aesthetic, ethical, political or ideological implications for those who use it, the designer is largely responsible for what he or she sends out into the world. The designer must reflect on why and for whom the design is being created.
 
-{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/reality-of-design-process.svg" caption="The Design process is often messy" %}  
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/reality-of-design-process.svg" caption="The Design Process is Messy! as it should be." %}  
 
-The AURORA project was a prime example of the unpredictable and messy nature of the design process. Sometimes unforeseen challenges arise, forcing us to adapt. In this case, our initial goal was to investigate how children deal with the winter season or SAD. However, as we progressed through the inquiry phase, we discovered that our initial hypothesis was not supported by the empirical evidence we gathered. Despite our use of divergent thinking, we became stuck in the inquiry phase. As a result, we had to abandon our original hypothesis and pivot our focus towards new empirical data.
 
+## 1st Iteration
+
+The AURORA project was a prime example of the unpredictable and messy nature of the design process. Sometimes unforeseen challenges arise, forcing designers to adapt. In this case, our initial goal was to investigate how children deal with the winter season or SAD. However, as we progressed through the inquiry phase, we discovered that our initial hypothesis was not supported by the empirical evidence we gathered. Despite our use of divergent thinking, we became stuck in the inquiry phase. As a result, we had to abandon our original hypothesis and pivot our focus towards gatherting new empirical data.
+
+{% capture carousel_images %}
+https://raw.githubusercontent.com/dani763f/website/main/images/aurora/kids1.jpg
+https://raw.githubusercontent.com/dani763f/website/main/images/aurora/kids2.jpg
+{% endcapture %}
+{% include elements/carousel.html %}
+
+
+## 2nd Iteration
+
+The 2nd iteration of the AURORA project involed returning to the results of the secondary research. The team explored the physicality of SAD and what remedies had previsouly yielded succesful results in clinial research, hoping that it would inspire a new direction for the project. Among those clinial findings were topics such as light therapy and physical activity. This lead the team to investigate more experimental solutions that had to do with light and its positive effect on the SAD condition.  
+While this activity at first seemed promosing, we were uncertain whether a 'lamp' was the right idea to move forward with. During feedback sessions, our instructors provided crucial criticism that a lamp was too unoriginal and also difficult with innovation in mind. This resulted in a decision to, once again, reevaluate our situation and shortly after we began a new data collection process.
+
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/earlysketches.png" caption="Experimental low fidelity sketches and form giving of the SAD lamp" %}  
+
+
+
+## 3rd Iteration  
+The third iteration was...
+
+<p class="text-center">
+{% include elements/button.html link="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/designproces.png" text="View the full design process ✍️" style="primary" size="lg" %}
+</p>  
+
+## The Prototype
+<br>
+
+<p class="text-center">
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FBl6sIi3G0tEFhMFnJHgN21%2FAURORA%3Fnode-id%3D0%253A1%26t%3DVefSpcKoZVQKO7uK-1" allowfullscreen></iframe>
+</p>
