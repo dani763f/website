@@ -52,12 +52,9 @@ The final product was showcased at the expo at ITU, where it received a lot of f
 
 {% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/expo.png" caption="Testing at the expo" %}  
 
-One common piece of feedback was the desire for more customization options within the app. Users wanted to be able to personalize their avatars and the environments they interacted with.   
-<br>
 
-<p class="text-center">
-{% include elements/button.html link="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/designproces.png" text="View the full design process ✍️" style="primary" size="lg" %}
-</p>  
+One common piece of feedback was the desire for more customization options within the app. Users wanted to be able to personalize their avatars and the environments they interacted with.  
+<br>
 
 ## The Figma Prototype
 <br>
@@ -70,3 +67,8 @@ One common piece of feedback was the desire for more customization options withi
 
 ## Summary
 In Summary, the AURORA project was a learning experience in how the design process can be messy, and that sometimes failure is necessary in order to validate ones own assumptions. Additionally, i found the amount of divergent thinking in the process super exciting especially while working simultaneously with the more rigid constraints found in the body of literature on the topic.
+<br>
+
+<p class="text-center">
+{% include elements/button.html link="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/designproces.png" text="View the full design process ✍️" style="primary" size="lg" %}
+</p>  
