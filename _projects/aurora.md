@@ -41,7 +41,6 @@ While this activity at first seemed promosing, we were uncertain whether a 'lamp
 {% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/earlysketches.png" caption="Experimental low fidelity sketches and form giving of the SAD lamp" %}  
 
 
-
 ## 3rd Iteration  
 The third iteration was...
 
