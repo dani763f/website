@@ -50,7 +50,7 @@ Using Figma, we developed a high-fidelity prototype that incorporated AR technol
 
 The final product was showcased at the expo at ITU, where it received a lot of feedback from both the attendees and the teachers. The feedback we received at the ITU expo was valuable in helping us refine the final version of AURORA. We were pleased to see that the attendees were engaged and interested in the product, but we also took note of some constructive criticism and suggestions for improvement.  
 
-{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/expo.png" caption="The expo stand used for showcasing the game" %}  
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/expo.png" caption="Testing at the expo" %}  
 
 One common piece of feedback was the desire for more customization options within the app. Users wanted to be able to personalize their avatars and the environments they interacted with.   
 <br>
