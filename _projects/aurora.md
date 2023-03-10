@@ -52,7 +52,7 @@ The final product was showcased at the expo at ITU, where it received a lot of f
 
 {% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/expo.png" caption="The expo stand used for showcasing the game" %}  
 
-One common piece of feedback was the desire for more customization options within the app. Users wanted to be able to personalize their avatars and the environments they interacted with. In Summary, the AURORA project was a learning experience in how the design process can be messy, and that sometimes failure is necessary in order to validate ones own assumptions. Additionally, i found the amount of divergent thinking in the process super exciting especially while working simultaneously with the more rigid constraints found in the body of literature on the topic.  
+One common piece of feedback was the desire for more customization options within the app. Users wanted to be able to personalize their avatars and the environments they interacted with.   
 <br>
 
 <p class="text-center">
@@ -69,3 +69,4 @@ One common piece of feedback was the desire for more customization options withi
 <br>
 
 ## Summary
+In Summary, the AURORA project was a learning experience in how the design process can be messy, and that sometimes failure is necessary in order to validate ones own assumptions. Additionally, i found the amount of divergent thinking in the process super exciting especially while working simultaneously with the more rigid constraints found in the body of literature on the topic.
