@@ -50,16 +50,16 @@ Using Figma, we developed a high-fidelity prototype that incorporated AR technol
 
 The final product was showcased at the expo at ITU, where it received a lot of feedback from both the attendees and the teachers. The feedback we received at the ITU expo was valuable in helping us refine the final version of AURORA. We were pleased to see that the attendees were engaged and interested in the product, but we also took note of some constructive criticism and suggestions for improvement.  
 
-One common piece of feedback was the desire for more customization options within the app. Users wanted to be able to personalize their avatars and the environments they interacted with. This feedback inspired us to add more customization features in future versions of AURORA.
-
 {% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/expo.png" caption="The expo stand used for showcasing the game" %}  
 
+One common piece of feedback was the desire for more customization options within the app. Users wanted to be able to personalize their avatars and the environments they interacted with. In Summary, the AURORA project was a learning experience in how the design process can be messy, and that sometimes failure is necessary in order to validate ones own assumptions. Additionally, i found the amount of divergent thinking in the process super exciting especially while working simultaneously with the more rigid constraints found in the body of literature on the topic.  
+<br>
 
 <p class="text-center">
 {% include elements/button.html link="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/designproces.png" text="View the full design process ✍️" style="primary" size="lg" %}
 </p>  
 
-## The Prototype
+## The Figma Prototype
 <br>
 
 <p class="text-center">
