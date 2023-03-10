@@ -38,11 +38,22 @@ https://raw.githubusercontent.com/dani763f/website/main/images/aurora/kids2.jpg
 The 2nd iteration of the AURORA project involed returning to the results of the secondary research. The team explored the physicality of SAD and what remedies had previsouly yielded succesful results in clinial research, hoping that it would inspire a new direction for the project. Among those clinial findings were topics such as light therapy and physical activity. This lead the team to investigate more experimental solutions that had to do with light and its positive effect on the SAD condition.  
 While this activity at first seemed promosing, we were uncertain whether a 'lamp' was the right idea to move forward with. During feedback sessions, our instructors provided crucial criticism that a lamp was too unoriginal and also difficult with innovation in mind. This resulted in a decision to, once again, reevaluate our situation and shortly after we began a new data collection process.
 
-{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/earlysketches.png" caption="Experimental low fidelity sketches and form giving of the SAD lamp" %}  
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/earlysketches.png" caption="Experimental low fidelity sketches and formgiving of the SAD lamp" %}  
 
 
 ## 3rd Iteration  
-The third iteration was...
+The third iteration of AURORA was a result of going back to the initial needs of the people with SAD, which was to get more physical activity. To achieve this, we took inspiration from popular AR games like PokemonGo, which have shown to be effective in motivating people to move around and explore their surroundings.  
+
+Using Figma, we developed a high-fidelity prototype that incorporated AR technology to create an immersive experience for the users. We also utilized ZAPworks, an AR development platform, to bring our vision to life.  
+
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/usergroups.jpg" caption="The empirical findings used to drive the creation of the AURORA app/game" %}  
+
+The final product was showcased at the expo at ITU, where it received a lot of feedback from both the attendees and the teachers. The feedback we received at the ITU expo was valuable in helping us refine the final version of AURORA. We were pleased to see that the attendees were engaged and interested in the product, but we also took note of some constructive criticism and suggestions for improvement.  
+
+One common piece of feedback was the desire for more customization options within the app. Users wanted to be able to personalize their avatars and the environments they interacted with. This feedback inspired us to add more customization features in future versions of AURORA.
+
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/expo.jpg" caption="The expo stand used for showcasing the game" %}  
+
 
 <p class="text-center">
 {% include elements/button.html link="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/designproces.png" text="View the full design process ✍️" style="primary" size="lg" %}
@@ -54,3 +65,7 @@ The third iteration was...
 <p class="text-center">
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FBl6sIi3G0tEFhMFnJHgN21%2FAURORA%3Fnode-id%3D0%253A1%26t%3DVefSpcKoZVQKO7uK-1" allowfullscreen></iframe>
 </p>
+
+<br>
+
+## Summary
