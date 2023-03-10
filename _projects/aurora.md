@@ -52,7 +52,7 @@ The final product was showcased at the expo at ITU, where it received a lot of f
 
 One common piece of feedback was the desire for more customization options within the app. Users wanted to be able to personalize their avatars and the environments they interacted with. This feedback inspired us to add more customization features in future versions of AURORA.
 
-{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/expo.jpg" caption="The expo stand used for showcasing the game" %}  
+{% include elements/figure.html image="https://raw.githubusercontent.com/dani763f/website/main/images/aurora/expo.png" caption="The expo stand used for showcasing the game" %}  
 
 
 <p class="text-center">
